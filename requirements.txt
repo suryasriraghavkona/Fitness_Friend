@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+pyaudio
+pandas
+matplotlib
+pyttsx3
